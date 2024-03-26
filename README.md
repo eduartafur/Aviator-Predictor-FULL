@@ -1,4 +1,4 @@
-
+Me podrias explicar más a fondo el como activarlo?.
 <div align="center">
 
 # Aviator Predictor
